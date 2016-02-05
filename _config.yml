@@ -1,4 +1,7 @@
-name: gouliard
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -9,12 +12,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.3049686935264617
 cta:
   bucket: null
@@ -33,8 +36,5 @@ color:
   lightness: 0.6723914197646081
 purpose: []
 favicon: null
+name: gouliard
 typography_spectrum: 0.8021727001760155
-analytics:
-  twitter: null
-  google: null
-  facebook: null
