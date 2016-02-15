@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[gouliard]]></title>
-        <description><![CDATA[gouliard]]></description>
+        <title><![CDATA[Jason Gouliard is a designer in Seattle]]></title>
+        <description><![CDATA[Jason Gouliard is a designer in Seattle]]></description>
         <link>http://jason.gouliard.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 19:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 19:18:49 GMT</lastBuildDate>
         <atom:link href="http://jason.gouliard.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A trip to the coast</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a33c94f9-d5fb-4320-b44d-84cbd6b90589.JPG">]]></description>
             <link>http://jason.gouliard.com/d31fbba7-ca3a-4866-af6b-96d06c787ef7/index.html</link>
             <guid isPermaLink="false">d31fbba7-ca3a-4866-af6b-96d06c787ef7</guid>
-            <pubDate>Mon, 15 Feb 2016 19:12:10 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 19:17:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
