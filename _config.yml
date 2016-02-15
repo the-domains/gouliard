@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: gouliard
+favicon: null
+layout_spectrum: 0.3049686935264617
+typography_spectrum: 0.8021727001760155
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.3049686935264617
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4103569334838539
-  brandStrength: 0.3125
-  rhythmicContrast: 1
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  lightness: 0.6723914197646081
+  brandStrength: 0.1875
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
-favicon: null
-name: gouliard
-typography_spectrum: 0.8021727001760155
