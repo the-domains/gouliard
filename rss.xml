@@ -4,8 +4,15 @@
         <description><![CDATA[Jason Gouliard is a designer in Seattle]]></description>
         <link>http://jason.gouliard.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 20:23:59 GMT</lastBuildDate>
         <atom:link href="http://jason.gouliard.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is yet another post]]></title>
+            <description><![CDATA[<article><h1>This is yet another post</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cee82b2b5f727e91113d5e68900855579966d6dd.png"></article>]]></description>
+            <link>http://jason.gouliard.com/this-is-yet-another-post/index.html</link>
+            <guid isPermaLink="false">0b60dd57-1b74-443a-9998-3e4d74427f53</guid>
+            <pubDate>Wed, 02 Mar 2016 20:23:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f756deb2-c4db-497c-8903-f28821f29207.png">]]></description>
